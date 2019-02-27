@@ -1,6 +1,5 @@
  
-# Created by https://www.gitignore.io/api/windows
-# Edit at https://www.gitignore.io/?templates=windows
+
 
 ### Windows ###
 # Windows thumbnail cache files
@@ -27,7 +26,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.gitignore.io/api/windows
+
  
  
  <html>
@@ -46,11 +45,14 @@ $RECYCLE.BIN/
  
   <p>я начинающий веб програмист</p>
   
- <img src=”програмист.jpg”   Height-“50”  Width="50”    />
+ <img src=”програмист.jpg”  
+ Height-“50”  Width="50”    />
  
  <p>пока что я еще учусь</p>
  
-  <img src=”програмист2.jpg”   Height-“50”  Width="50”    />
+  <img src=”програмист2.jpg”   
+  Height-“50”  Width="50”    />
+  
  <p>но я уже знаю язык <br/> Html на 50% <br/> javascript на 15% <br/>css на 5% <br/>в скором времени я изучу их болеелутше и пруступлю к изучения других языков и буду усовершенствовать эти 3 языка</p>
  
 
