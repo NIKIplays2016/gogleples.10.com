@@ -1,2 +1,0 @@
-# valik
-valik002
