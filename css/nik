@@ -1,0 +1,5 @@
+html {
+ background: url('http://www.setwalls.ru/pic/201312/1680x1050/setwalls.ru-64888.jpg') repeat-y #0000FF left top;
+background: url('https://www.desktopbackground.org/download/2560x1440/2013/02/14/530531_black-wallpaper-waf1004_3840x2400_h.jpg') repeat-y #0000FFcenter top;
+ background: url('http://www.setwalls.ru/pic/201312/1680x1050/setwalls.ru-64888.jpg') repeat-y #0000FF right top;
+}
